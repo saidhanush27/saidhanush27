@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Im Sai Dhanush
+## Im Sai Dhanush
 ##🎓A final-year Computer Science Engineering student at Adhiyamaan College of Engineering.
 ## 😄Im a passionate and driven individual with a strong foundation in technology, web development, and software engineering
 ##🌟 Interests: Fitness, cinema, travel, and astronomy.
