@@ -6,7 +6,7 @@
 😄Im a passionate and driven individual with a strong foundation in technology, web development, and software engineering<br/>
 🌟 Interests: Fitness, cinema, travel, and astronomy.<br/>
 🌱 I’m currently looking for opportunities in  software field, thrive in team environments, and contribute to projects that value hard work and collaboration. i am Skilled in HTML, CSS, and JavaScript, with experience in frameworks like React.<br/>
-📫 Let’s connect and build something awesome!<br
+### 📫 Let’s connect and build something awesome!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.dhanushx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-dhanush-vr/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/dhanush_x27) 
