@@ -2,7 +2,7 @@
 `🎓A final-year Computer Science Engineering student at Adhiyamaan College of Engineering,Hosur.`<br>
 `😄Im a passionate and driven individual with a strong foundation in technology, web development, and software engineering.`<br>
 `🌟My Interests: Cinema, travel, and astronomy.`<br>
-`👨🏽‍💻Whether it's designing an intuitive UI or solving complex problems, I find joy in the challenge of continuous learning and innovation.Whether it's designing an intuitive UI or solving complex problems, I find joy in the challenge of continuous learning and innovation.`<br>
+`👨🏽‍💻Whether it's designing an intuitive UI or solving complex problems, I find joy in the challenge of continuous learning and innovation.`<br>
 `🌱 I’m currently looking for opportunities in  software field, thrive in team environments, and contribute to projects that value hard work and collaboration. i am Skilled in Web Development and Design.`<br>
 
 
