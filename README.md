@@ -11,6 +11,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhanush_x27) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidhanushvr@gmail.com)
 
+## `MY RESUME`: https://sai-dhanush-vr-resume.tiiny.site
 
 ## `🌐 Portfolio:` [Click Here](https://saidhanush-portfolio.netlify.app/)
 
