@@ -53,7 +53,7 @@
 
 ## 📑 RESUME: [Check Out My CV](https://sai-dhanush-vr-resume.tiiny.site)
 
-## 🌐 Portfolio: [Click Here](https://saidhanush-portfolio.netlify.app/)
+## 🌐 Portfolio: [Click Here](https://saidhanushvr-portfolio.netlify.app/)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
