@@ -1,4 +1,4 @@
-## **<div align="center">Hey 👋, I'm Sai Dhanush VR!</div>**  
+## **<div align="center">Hey👋, I'm Sai Dhanush VR!</div>**  
   
 
 <div align="center">
